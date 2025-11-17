@@ -1,4 +1,4 @@
-# Persian Glyphs Converter 
+# Persian Glyphs Converter
 
 **Description:**  
 Persian Glyphs Converter is a PHP library designed to handle the conversion of Persian text into glyph-friendly UTF-8 strings. This library ensures that your Persian text renders correctly in systems requiring specific glyph adjustments.
